@@ -6,6 +6,7 @@
   "author": "Cornelia Schulz <cornelia.schulz.nz@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "node index",
     "knex": "knex"
   },
   "dependencies": {

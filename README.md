@@ -18,4 +18,8 @@
 
 9. run yarn knex seed:make filename to create a file that will be used to populate the db, the file is create in the seeds folder
 
-10.
+10. open up the seed file and replace table and coumn names with the correct data
+
+11. run yarn knex seed:run
+
+12. create an index.js file to run queries on the db
