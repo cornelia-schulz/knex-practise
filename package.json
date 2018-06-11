@@ -1,0 +1,15 @@
+{
+  "name": "knex-practise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cornelia-schulz/knex-practise.git",
+  "author": "Cornelia Schulz <cornelia.schulz.nz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "knex": "knex"
+  },
+  "dependencies": {
+    "knex": "^0.14.6",
+    "sqlite3": "^4.0.0"
+  }
+}
